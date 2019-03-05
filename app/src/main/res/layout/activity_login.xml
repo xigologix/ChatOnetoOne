@@ -6,13 +6,13 @@
     tools:context=".Login"
     android:orientation="vertical"
     android:gravity="center">
-    <TextView
+<!--    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Login"
         android:textSize="30dp"
         android:gravity="center"
-        android:layout_marginBottom="20dp"/>
+        android:layout_marginBottom="20dp"/>-->
 
     <EditText
         android:layout_width="match_parent"
